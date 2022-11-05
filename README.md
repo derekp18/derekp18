@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>Derek</b>
 </h1>
 
 Hey! I'm Derek Perez, a student currently living in Barranquilla, Colombia. I'm preparin to be a full developer. At the moment I am only doing small projects myself to improve as a developer.
