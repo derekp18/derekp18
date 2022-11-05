@@ -2,9 +2,7 @@
   <b>Abhigyan Trips</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
+Hey! I'm Derek Perez, a student currently living in Barranquilla, Colombia. I'm preparin to be a full developer. At the moment I am only doing small projects myself to improve as a developer.
 
 <br>
 
@@ -20,17 +18,16 @@ and learning programming through small projects  on the side.
 class AbhigyanTrips():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.name = "Derek Perez";
+    self.username = "derekp18";
+    self.location = "Barranquilla, Colombia";
+    
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = derekp18()
 ```
 
 <div align="center">
