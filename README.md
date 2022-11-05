@@ -33,3 +33,5 @@ if __name__ == '__main__':
 ```
 
 
+![derekp18GitHub stats](https://github-readme-stats.vercel.app/api?username=derekp18&show_icons=true&theme=synthwave)
+
