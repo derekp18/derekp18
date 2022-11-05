@@ -32,16 +32,4 @@ if __name__ == '__main__':
     me = derekp18()
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31xx3jtrgyf3tqfpm4rzk4zrfp5e">
-    <img src="https://widget.nowplaying.site/4W44TXJ9bz5hCqkc">
-  </a>
-</div>
 
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://widget.nowplaying.site/4W44TXJ9bz5hCqkc" width="240px">
-  </a>
-</div>
--->
