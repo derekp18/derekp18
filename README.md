@@ -17,7 +17,7 @@ Hey! I'm Derek Perez, a student currently living in Barranquilla, Colombia. I'm 
 </p>
 
 ```python
-class AbhigyanTrips():
+class My_Basic_information():
     
   def __init__(self):
     self.name = "Derek Perez";
