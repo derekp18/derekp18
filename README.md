@@ -33,6 +33,6 @@ if __name__ == '__main__':
 ```
 
 
-![derekp18 GitHub stats](https://github-readme-stats.vercel.app/api?username=derekp18&show_icons=true&theme=synthwave)
+![derekp18 GitHub stats](https://github-readme-stats.vercel.app/api?username=derekp18&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekp18&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
