@@ -35,5 +35,5 @@ if __name__ == '__main__':
 
 ![derekp18 GitHub stats](https://github-readme-stats.vercel.app/api?username=derekp18&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekp18&langs_count=8)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekp18&langs_count=8&theme=radical)
 
